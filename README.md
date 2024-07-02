@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 54 mins
+Total Time: 7 hrs 39 mins
 
-Rust          5 hrs 46 mins   ██████████████░░░░░░░░░░░   56.42 %
-Lua           3 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   31.05 %
-TypeScript    33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Other         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Assembly      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Rust          3 hrs 29 mins   ███████████░░░░░░░░░░░░░░   43.61 %
+Lua           3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.72 %
+TypeScript    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Other         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Git           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->

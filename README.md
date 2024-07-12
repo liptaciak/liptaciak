@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 2 mins
+Total Time: 6 hrs 39 mins
 
-Rust         4 hrs 43 mins   ████████████████▓░░░░░░░░   66.70 %
-Assembly     1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-TypeScript   42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-C++          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Rust         4 hrs 43 mins   █████████████████▓░░░░░░░   70.50 %
+Assembly     1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+TypeScript   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->

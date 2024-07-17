@@ -1,11 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 56 mins
+Total Time: 33 mins
 
-Rust       1 hr 49 mins    ███████████████▒░░░░░░░░░   60.79 %
-Assembly   1 hr 7 mins     █████████▒░░░░░░░░░░░░░░░   37.50 %
-Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Rust    33 mins         ███████████████████████▒░   93.41 %
+Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 ```
 
 <!--END_SECTION:waka-->

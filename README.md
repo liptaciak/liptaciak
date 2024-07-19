@@ -1,10 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 mins
+Total Time: 13 mins
 
-Rust    33 mins         ███████████████████████▒░   93.41 %
-Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Rust   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm lpta</h1>
-- 🔭 I’m currently working on [Intel MCS-51 (8051) emulator](https://github.com/liptaciak/8051)
+- 🔭 I’m currently working on Intel MCS-51 8051 emulator: https://github.com/liptaciak/8051
 
 - 🌱 I’m currently learning **C++, Reverse Engineering**
 
-- 💬 Ask me about **Electronics, C, Frontend development**
+- 💬 Ask me about **Electronics, C, Frontend / Backend Development, UI/UX Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
